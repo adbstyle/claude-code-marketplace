@@ -1,0 +1,27 @@
+{
+  "name": "adbstyle-skills",
+  "owner": {
+    "name": "Adrian Bader",
+    "url": "https://github.com/adbstyle"
+  },
+  "metadata": {
+    "description": "Claude Code Skills by Adrian Bader",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "requirementsengineer",
+      "source": {
+        "source": "github",
+        "repo": "adbstyle/requirementsengineer-skill"
+      },
+      "description": "Analysiert und dokumentiert Anforderungen als User Stories und Akzeptanzkriterien nach IREB-Standards",
+      "version": "1.0.0",
+      "author": {
+        "name": "Adrian Bader"
+      },
+      "keywords": ["requirements", "user-stories", "acceptance-criteria", "ireb"],
+      "category": "productivity"
+    }
+  ]
+}
