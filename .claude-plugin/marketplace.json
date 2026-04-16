@@ -16,7 +16,7 @@
         "repo": "adbstyle/requirementsengineer-skill"
       },
       "description": "Analysiert und dokumentiert Anforderungen als User Stories und Akzeptanzkriterien nach IREB-Standards",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "author": {
         "name": "Adrian Bader"
       },
